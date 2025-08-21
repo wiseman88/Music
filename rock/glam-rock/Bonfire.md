@@ -8,13 +8,13 @@
 
 ## 🎵 Zoznam skladieb (*Fireworks*)
 
-1. **Ready 4 Reaction**  
-2. **Never Mind**  
+1. **Ready 4 Reaction**  💣
+2. **Never Mind**  💣
 3. **Sleeping All Alone**  
-4. **Champion**  
+4. **Champion**  💣
 5. **Don’t Get Me Wrong**  
-6. **Sweet Obsession**  
-7. **Rock Me Now**  
+6. **Sweet Obsession**  💣
+7. **Rock Me Now**  💣
 8. **American Nights**  
 9. **Fantasy**  
 10. **Give It a Try**  
